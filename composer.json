@@ -1,0 +1,10 @@
+{
+    "name": "leymannx/dru",
+    "type": "metapackage",
+    "require": {
+        "drupal/admin_toolbar": "*",
+        "drupal/devel": "*",
+        "drupal/module_filter": "*",
+        "drupal/rebuild_cache_access": "*"
+    }
+}
